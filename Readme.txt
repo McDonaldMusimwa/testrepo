@@ -1,5 +1,6 @@
 ## The is a test repo that was requested by comegetcred  
 
+Live link: https://mcdonaldmusimwa.github.io/testrepo/index.html  
 
 ## The test requirements  
 
@@ -8,3 +9,4 @@ Develop a responsive front-end section layout that has 6 items that are structur
 Each item on click needs to show a modal popup to display more fields from that particular item data entry in detail.  
 
 Due date in 2 days.
+
